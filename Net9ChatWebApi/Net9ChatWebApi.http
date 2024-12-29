@@ -1,0 +1,6 @@
+@Net9ChatWebApi_HostAddress = http://localhost:5185
+
+GET {{Net9ChatWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
